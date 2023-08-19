@@ -7,7 +7,7 @@ Term-project for education, aim to solve the problem Vertex Cover.
 ## Run project via Python locally
 
 There are two files are used as inputs as a `sys.argv`: one is an input file and the other is a file used to store the result. <br>
-If you aren't install ortools, you need to run this command before run the python file.  
+If you aren't install ortools yet, you need to run this command before run the python file.  
 
 ```
 pip install ortools
